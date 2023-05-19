@@ -21,7 +21,7 @@ function LoremForm() {
         </label>
         <button
           type="submit"
-          className="w-2/4 rounded bg-blue-600 px-4 text-lg text-white sm:text-xl"
+          className="w-2/4 rounded bg-blue-600 px-4 text-lg text-white sm:text-xl uppercase"
         >
           generate
         </button>
